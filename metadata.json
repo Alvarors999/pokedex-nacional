@@ -1,0 +1,6 @@
+{
+  "name": "Pokédex Nacional",
+  "description": "Enciclopedia interactiva de Pokémon reales impulsada por PokéAPI con estadísticas, evoluciones y debilidades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
